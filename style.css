@@ -27,6 +27,9 @@ height: 300px;
   flex-wrap:wrap;
   justify-content: center;
 }
+.greeting {
+  text-align: center;
+}
 header{
   display: flex;
   flex-wrap:wrap;
